@@ -29,3 +29,7 @@
     With my enemies all around.
     Let your anointing fall on me.
     Let my cup overflow with your pow'r.
+
+## Notes
+
+Lyrics for this song were adapted from Psalm 23.

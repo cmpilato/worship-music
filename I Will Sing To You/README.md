@@ -15,3 +15,7 @@
     I will sing to You
     I will sing to You
     I will praise You, O God, before the world!
+
+## Notes
+
+Lyrics for this song were adapted from Psalm 108.
