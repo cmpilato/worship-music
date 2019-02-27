@@ -1,5 +1,7 @@
 # Shepherd of My Soul
 
+## Lyrics
+
     You are my Shepherd.
     I'll want for nothing.
     You make me lie down
@@ -23,22 +25,7 @@
     Jesus, my Shepherd,
     You're always near.
     
-    You restore my soul.  You restore my soul.
-    Surely goodness and mercy will follow.
-    And I will dwell in the house of the Lord forever.
-    There with my Shepherd, the Shepherd of my soul.
-    
     You set a table before me,
     With my enemies all around.
     Let your anointing fall on me.
     Let my cup overflow with your pow'r.
-    
-    You restore my soul.  You restore my soul.
-    Surely goodness and mercy will follow.
-    And I will dwell in the house of the Lord forever.
-    There with my Shepherd, the Shepherd of my soul.
-    I will dwell in the house of the Lord forever.
-    There with my Shepherd, the Shepherd of my soul.
-    
-    You are my Shepherd.
-    I'll want for nothing.
