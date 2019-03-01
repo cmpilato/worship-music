@@ -9,7 +9,7 @@
     <rights>C. Michael Pilato; License: cc-by-3.0</rights>
     <encoding>
       <software>MuseScore 2.1.0</software>
-      <encoding-date>2019-02-27</encoding-date>
+      <encoding-date>2019-03-01</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -3484,7 +3484,7 @@
         <dot/>
         </note>
       </measure>
-    <measure number="29" width="247.13">
+    <measure number="29" width="247.98">
       <print new-system="yes">
         <system-layout>
           <system-margins>
@@ -3501,7 +3501,7 @@
         <type>quarter</type>
         <dot/>
         </note>
-      <note default-x="121.81" default-y="-35.00">
+      <note default-x="122.29" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -3516,7 +3516,7 @@
           <text>There</text>
           </lyric>
         </note>
-      <note default-x="121.81" default-y="-25.00">
+      <note default-x="122.29" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3527,7 +3527,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="121.81" default-y="-15.00">
+      <note default-x="122.29" default-y="-15.00">
         <chord/>
         <pitch>
           <step>C</step>
@@ -3538,7 +3538,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="167.03" default-y="-40.00">
+      <note default-x="167.51" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -3554,7 +3554,7 @@
           <text>with</text>
           </lyric>
         </note>
-      <note default-x="167.03" default-y="-30.00">
+      <note default-x="167.51" default-y="-30.00">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3565,7 +3565,7 @@
         <type>16th</type>
         <stem>up</stem>
         </note>
-      <note default-x="167.03" default-y="-20.00">
+      <note default-x="167.51" default-y="-20.00">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3577,7 +3577,7 @@
         <type>16th</type>
         <stem>up</stem>
         </note>
-      <note default-x="201.40" default-y="-45.00">
+      <note default-x="201.88" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -3593,7 +3593,7 @@
           <text>my</text>
           </lyric>
         </note>
-      <note default-x="201.40" default-y="-35.00">
+      <note default-x="201.88" default-y="-35.00">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3605,7 +3605,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="201.40" default-y="-25.00">
+      <note default-x="201.88" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3618,7 +3618,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="30" width="183.61">
+    <measure number="30" width="184.46">
       <harmony print-frame="no" color="#75507B">
         <root>
           <root-step>C</root-step>
@@ -3707,7 +3707,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="104.03" default-y="-50.00">
+      <note default-x="104.12" default-y="-50.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -3722,7 +3722,7 @@
           <slur type="stop" number="2"/>
           </notations>
         </note>
-      <note default-x="104.03" default-y="-40.00">
+      <note default-x="104.12" default-y="-40.00">
         <chord/>
         <pitch>
           <step>E</step>
@@ -3733,7 +3733,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="104.03" default-y="-30.00">
+      <note default-x="104.12" default-y="-30.00">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3752,7 +3752,7 @@
         <dot/>
         </note>
       </measure>
-    <measure number="31" width="201.67">
+    <measure number="31" width="196.57">
       <harmony print-frame="no" color="#75507B">
         <root>
           <root-step>B</root-step>
@@ -3760,9 +3760,9 @@
           </root>
         <kind>major</kind>
         </harmony>
-      <note default-x="25.10" default-y="-50.00">
+      <note default-x="25.10" default-y="-45.00">
         <pitch>
-          <step>C</step>
+          <step>D</step>
           <octave>4</octave>
           </pitch>
         <duration>3</duration>
@@ -3801,9 +3801,9 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="68.85" default-y="-50.00">
+      <note default-x="67.57" default-y="-45.00">
         <pitch>
-          <step>C</step>
+          <step>D</step>
           <octave>4</octave>
           </pitch>
         <duration>3</duration>
@@ -3817,7 +3817,7 @@
           <text>herd</text>
           </lyric>
         </note>
-      <note default-x="68.85" default-y="-35.00">
+      <note default-x="67.57" default-y="-35.00">
         <chord/>
         <pitch>
           <step>F</step>
@@ -3829,7 +3829,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="68.85" default-y="-20.00">
+      <note default-x="67.57" default-y="-20.00">
         <chord/>
         <pitch>
           <step>B</step>
@@ -3848,7 +3848,7 @@
           </root>
         <kind text="m7">minor-seventh</kind>
         </harmony>
-      <note default-x="112.59" default-y="-55.00">
+      <note default-x="110.03" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -3865,7 +3865,7 @@
           <text>of</text>
           </lyric>
         </note>
-      <note default-x="112.59" default-y="-45.00">
+      <note default-x="110.03" default-y="-45.00">
         <chord/>
         <pitch>
           <step>D</step>
@@ -3877,7 +3877,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="112.59" default-y="-25.00">
+      <note default-x="110.03" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -3889,7 +3889,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="156.33" default-y="-55.00">
+      <note default-x="152.50" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -3906,7 +3906,7 @@
           <text>my</text>
           </lyric>
         </note>
-      <note default-x="156.33" default-y="-45.00">
+      <note default-x="152.50" default-y="-45.00">
         <chord/>
         <pitch>
           <step>D</step>
@@ -3918,7 +3918,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="156.33" default-y="-30.00">
+      <note default-x="152.50" default-y="-30.00">
         <chord/>
         <pitch>
           <step>G</step>
@@ -3931,7 +3931,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="32" width="91.81">
+    <measure number="32" width="92.66">
       <barline location="left">
         <ending number="1" type="start"/>
         </barline>
@@ -3981,7 +3981,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="33" width="216.36">
+    <measure number="33" width="217.21">
       <note>
         <rest/>
         <duration>6</duration>
@@ -3989,7 +3989,7 @@
         <type>quarter</type>
         <dot/>
         </note>
-      <note default-x="83.68" default-y="-50.00">
+      <note default-x="84.25" default-y="-50.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -4004,7 +4004,7 @@
           <text>2. E</text>
           </lyric>
         </note>
-      <note default-x="83.68" default-y="-35.00">
+      <note default-x="84.25" default-y="-35.00">
         <chord/>
         <pitch>
           <step>F</step>
@@ -4015,7 +4015,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="83.68" default-y="-25.00">
+      <note default-x="84.25" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -4026,7 +4026,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="119.94" default-y="-55.00">
+      <note default-x="120.80" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -4042,7 +4042,7 @@
           <text>ven</text>
           </lyric>
         </note>
-      <note default-x="119.94" default-y="-45.00">
+      <note default-x="120.80" default-y="-45.00">
         <chord/>
         <pitch>
           <step>D</step>
@@ -4053,7 +4053,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="119.94" default-y="-30.00">
+      <note default-x="120.80" default-y="-30.00">
         <chord/>
         <pitch>
           <step>G</step>
@@ -4064,7 +4064,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="159.54" default-y="-60.00">
+      <note default-x="160.39" default-y="-60.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
@@ -4079,7 +4079,7 @@
           <text>when</text>
           </lyric>
         </note>
-      <note default-x="159.54" default-y="-50.00">
+      <note default-x="160.39" default-y="-50.00">
         <chord/>
         <pitch>
           <step>C</step>
@@ -4090,7 +4090,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="159.54" default-y="-35.00">
+      <note default-x="160.39" default-y="-35.00">
         <chord/>
         <pitch>
           <step>F</step>
@@ -4107,7 +4107,7 @@
         <repeat direction="backward"/>
         </barline>
       </measure>
-    <measure number="34" width="91.81">
+    <measure number="34" width="92.66">
       <barline location="left">
         <ending number="2" type="start"/>
         </barline>
@@ -4148,7 +4148,7 @@
         <ending number="2" type="discontinue"/>
         </barline>
       </measure>
-    <measure number="35" width="78.15">
+    <measure number="35" width="79.00">
       <note>
         <rest/>
         <duration>12</duration>
@@ -7714,7 +7714,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="66" width="270.89">
+    <measure number="66" width="272.08">
       <print new-system="yes">
         <system-layout>
           <system-margins>
@@ -7814,7 +7814,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="166.57" default-y="-50.00">
+      <note default-x="166.95" default-y="-50.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -7831,7 +7831,7 @@
           <slur type="stop" number="4"/>
           </notations>
         </note>
-      <note default-x="166.57" default-y="-40.00">
+      <note default-x="166.95" default-y="-40.00">
         <chord/>
         <pitch>
           <step>E</step>
@@ -7842,7 +7842,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="166.57" default-y="-30.00">
+      <note default-x="166.95" default-y="-30.00">
         <chord/>
         <pitch>
           <step>G</step>
@@ -7861,7 +7861,7 @@
         <dot/>
         </note>
       </measure>
-    <measure number="67" width="237.77">
+    <measure number="67" width="233.00">
       <harmony print-frame="no" color="#75507B">
         <root>
           <root-step>B</root-step>
@@ -7869,9 +7869,9 @@
           </root>
         <kind>major</kind>
         </harmony>
-      <note default-x="25.10" default-y="-50.00">
+      <note default-x="25.10" default-y="-45.00">
         <pitch>
-          <step>C</step>
+          <step>D</step>
           <octave>4</octave>
           </pitch>
         <duration>3</duration>
@@ -7910,9 +7910,9 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="77.87" default-y="-50.00">
+      <note default-x="76.68" default-y="-45.00">
         <pitch>
-          <step>C</step>
+          <step>D</step>
           <octave>4</octave>
           </pitch>
         <duration>3</duration>
@@ -7926,7 +7926,7 @@
           <text>herd</text>
           </lyric>
         </note>
-      <note default-x="77.87" default-y="-35.00">
+      <note default-x="76.68" default-y="-35.00">
         <chord/>
         <pitch>
           <step>F</step>
@@ -7938,7 +7938,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="77.87" default-y="-20.00">
+      <note default-x="76.68" default-y="-20.00">
         <chord/>
         <pitch>
           <step>B</step>
@@ -7957,7 +7957,7 @@
           </root>
         <kind text="m7">minor-seventh</kind>
         </harmony>
-      <note default-x="130.64" default-y="-55.00">
+      <note default-x="128.25" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -7974,7 +7974,7 @@
           <text>of</text>
           </lyric>
         </note>
-      <note default-x="130.64" default-y="-45.00">
+      <note default-x="128.25" default-y="-45.00">
         <chord/>
         <pitch>
           <step>D</step>
@@ -7986,7 +7986,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="130.64" default-y="-25.00">
+      <note default-x="128.25" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -7998,7 +7998,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="183.40" default-y="-55.00">
+      <note default-x="179.83" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -8015,7 +8015,7 @@
           <text>my</text>
           </lyric>
         </note>
-      <note default-x="183.40" default-y="-45.00">
+      <note default-x="179.83" default-y="-45.00">
         <chord/>
         <pitch>
           <step>D</step>
@@ -8027,7 +8027,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="183.40" default-y="-30.00">
+      <note default-x="179.83" default-y="-30.00">
         <chord/>
         <pitch>
           <step>G</step>
@@ -8040,7 +8040,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="68" width="127.91">
+    <measure number="68" width="129.10">
       <harmony print-frame="no" color="#75507B">
         <root>
           <root-step>F</root-step>
@@ -8087,7 +8087,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="69" width="183.76">
+    <measure number="69" width="184.95">
       <note>
         <rest/>
         <duration>6</duration>
@@ -8110,7 +8110,7 @@
         <voice>1</voice>
         <type>eighth</type>
         </note>
-      <note default-x="113.80" default-y="-50.00">
+      <note default-x="114.51" default-y="-50.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -8125,7 +8125,7 @@
           <text>I</text>
           </lyric>
         </note>
-      <note default-x="113.80" default-y="-35.00">
+      <note default-x="114.51" default-y="-35.00">
         <chord/>
         <pitch>
           <step>F</step>
@@ -8136,7 +8136,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="113.80" default-y="-25.00">
+      <note default-x="114.51" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8147,7 +8147,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="117.75" default-y="0.00">
+      <note default-x="118.46" default-y="0.00">
         <chord/>
         <pitch>
           <step>F</step>
@@ -8158,7 +8158,7 @@
         <type size="cue">eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="147.98" default-y="-40.00">
+      <note default-x="148.93" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -8173,7 +8173,7 @@
           <text>will</text>
           </lyric>
         </note>
-      <note default-x="147.98" default-y="-25.00">
+      <note default-x="148.93" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8184,7 +8184,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="147.98" default-y="-15.00">
+      <note default-x="148.93" default-y="-15.00">
         <chord/>
         <pitch>
           <step>C</step>
@@ -8195,7 +8195,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="151.93" default-y="-5.00">
+      <note default-x="152.88" default-y="-5.00">
         <chord/>
         <pitch>
           <step>E</step>
@@ -8207,7 +8207,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="70" width="290.22">
+    <measure number="70" width="291.41">
       <harmony print-frame="no" color="#75507B">
         <root>
           <root-step>D</root-step>
@@ -8271,7 +8271,7 @@
         <voice>1</voice>
         <type>eighth</type>
         </note>
-      <note default-x="171.86" default-y="-35.00">
+      <note default-x="172.80" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -8286,7 +8286,7 @@
           <text>in</text>
           </lyric>
         </note>
-      <note default-x="171.86" default-y="-25.00">
+      <note default-x="172.80" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8297,7 +8297,7 @@
         <type>eighth</type>
         <stem>down</stem>
         </note>
-      <note default-x="159.99" default-y="-10.00">
+      <note default-x="160.94" default-y="-10.00">
         <chord/>
         <pitch>
           <step>D</step>
@@ -8308,7 +8308,7 @@
         <type>eighth</type>
         <stem>down</stem>
         </note>
-      <note default-x="171.86" default-y="-5.00">
+      <note default-x="172.80" default-y="-5.00">
         <chord/>
         <pitch>
           <step>E</step>
@@ -8319,7 +8319,7 @@
         <type size="cue">eighth</type>
         <stem>down</stem>
         </note>
-      <note default-x="209.59" default-y="-40.00">
+      <note default-x="210.78" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -8335,7 +8335,7 @@
           <text>the</text>
           </lyric>
         </note>
-      <note default-x="209.59" default-y="-25.00">
+      <note default-x="210.78" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8346,7 +8346,7 @@
         <type>16th</type>
         <stem>down</stem>
         </note>
-      <note default-x="209.59" default-y="-15.00">
+      <note default-x="210.78" default-y="-15.00">
         <chord/>
         <pitch>
           <step>C</step>
@@ -8357,7 +8357,7 @@
         <type>16th</type>
         <stem>down</stem>
         </note>
-      <note default-x="209.59" default-y="0.00">
+      <note default-x="210.78" default-y="0.00">
         <chord/>
         <pitch>
           <step>F</step>
@@ -8368,7 +8368,7 @@
         <type size="cue">16th</type>
         <stem>down</stem>
         </note>
-      <note default-x="249.18" default-y="-35.00">
+      <note default-x="250.37" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -8384,7 +8384,7 @@
           <text>house</text>
           </lyric>
         </note>
-      <note default-x="249.18" default-y="-20.00">
+      <note default-x="250.37" default-y="-20.00">
         <chord/>
         <pitch>
           <step>B</step>
@@ -8396,7 +8396,7 @@
         <type>16th</type>
         <stem>down</stem>
         </note>
-      <note default-x="249.18" default-y="-10.00">
+      <note default-x="250.37" default-y="-10.00">
         <chord/>
         <pitch>
           <step>D</step>
@@ -8408,7 +8408,7 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="71" width="297.27">
+    <measure number="71" width="298.46">
       <print new-page="yes">
         <system-layout>
           <system-margins>
@@ -8459,7 +8459,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="96.71" default-y="-35.00">
+      <note default-x="96.99" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -8474,7 +8474,7 @@
           <text>of</text>
           </lyric>
         </note>
-      <note default-x="96.71" default-y="-20.00">
+      <note default-x="96.99" default-y="-20.00">
         <chord/>
         <pitch>
           <step>B</step>
@@ -8486,7 +8486,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="96.71" default-y="-10.00">
+      <note default-x="96.99" default-y="-10.00">
         <chord/>
         <pitch>
           <step>D</step>
@@ -8497,7 +8497,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="130.24" default-y="-40.00">
+      <note default-x="130.81" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -8513,7 +8513,7 @@
           <text>the</text>
           </lyric>
         </note>
-      <note default-x="130.24" default-y="-25.00">
+      <note default-x="130.81" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8524,7 +8524,7 @@
         <type>16th</type>
         <stem>up</stem>
         </note>
-      <note default-x="130.24" default-y="-15.00">
+      <note default-x="130.81" default-y="-15.00">
         <chord/>
         <pitch>
           <step>C</step>
@@ -8535,7 +8535,7 @@
         <type>16th</type>
         <stem>up</stem>
         </note>
-      <note default-x="166.41" default-y="-35.00">
+      <note default-x="166.98" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -8556,7 +8556,7 @@
           <text>Lord</text>
           </lyric>
         </note>
-      <note default-x="166.41" default-y="-20.00">
+      <note default-x="166.98" default-y="-20.00">
         <chord/>
         <pitch>
           <step>B</step>
@@ -8569,7 +8569,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="166.41" default-y="-10.00">
+      <note default-x="166.98" default-y="-10.00">
         <chord/>
         <pitch>
           <step>D</step>
@@ -8581,7 +8581,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="207.30" default-y="-35.00">
+      <note default-x="208.21" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -8597,7 +8597,7 @@
           <slur type="stop" number="3"/>
           </notations>
         </note>
-      <note default-x="207.30" default-y="-25.00">
+      <note default-x="208.21" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8608,7 +8608,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="207.30" default-y="-15.00">
+      <note default-x="208.21" default-y="-15.00">
         <chord/>
         <pitch>
           <step>C</step>
@@ -8625,7 +8625,7 @@
         <voice>1</voice>
         <type>16th</type>
         </note>
-      <note default-x="262.87" default-y="-50.00">
+      <note default-x="264.06" default-y="-50.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -8639,7 +8639,7 @@
           <text>for</text>
           </lyric>
         </note>
-      <note default-x="262.87" default-y="-35.00">
+      <note default-x="264.06" default-y="-35.00">
         <chord/>
         <pitch>
           <step>F</step>
@@ -8650,7 +8650,7 @@
         <type>16th</type>
         <stem>up</stem>
         </note>
-      <note default-x="262.87" default-y="-25.00">
+      <note default-x="264.06" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8662,7 +8662,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="72" width="176.33">
+    <measure number="72" width="177.52">
       <harmony print-frame="no" color="#75507B">
         <root>
           <root-step>F</root-step>
@@ -8752,7 +8752,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="80.78" default-y="-50.00">
+      <note default-x="81.16" default-y="-50.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -8768,7 +8768,7 @@
           <slur type="stop" number="3"/>
           </notations>
         </note>
-      <note default-x="80.78" default-y="-35.00">
+      <note default-x="81.16" default-y="-35.00">
         <chord/>
         <pitch>
           <step>F</step>
@@ -8779,7 +8779,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="80.78" default-y="-25.00">
+      <note default-x="81.16" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8798,7 +8798,7 @@
         <dot/>
         </note>
       </measure>
-    <measure number="73" width="219.50">
+    <measure number="73" width="220.69">
       <note>
         <rest/>
         <duration>6</duration>
@@ -8806,7 +8806,7 @@
         <type>quarter</type>
         <dot/>
         </note>
-      <note default-x="83.98" default-y="-35.00">
+      <note default-x="84.65" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -8821,7 +8821,7 @@
           <text>There</text>
           </lyric>
         </note>
-      <note default-x="83.98" default-y="-25.00">
+      <note default-x="84.65" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8832,7 +8832,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="83.98" default-y="-15.00">
+      <note default-x="84.65" default-y="-15.00">
         <chord/>
         <pitch>
           <step>C</step>
@@ -8843,7 +8843,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="129.19" default-y="-40.00">
+      <note default-x="129.87" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -8859,7 +8859,7 @@
           <text>with</text>
           </lyric>
         </note>
-      <note default-x="129.19" default-y="-30.00">
+      <note default-x="129.87" default-y="-30.00">
         <chord/>
         <pitch>
           <step>G</step>
@@ -8870,7 +8870,7 @@
         <type>16th</type>
         <stem>up</stem>
         </note>
-      <note default-x="129.19" default-y="-20.00">
+      <note default-x="129.87" default-y="-20.00">
         <chord/>
         <pitch>
           <step>B</step>
@@ -8882,7 +8882,7 @@
         <type>16th</type>
         <stem>up</stem>
         </note>
-      <note default-x="163.57" default-y="-45.00">
+      <note default-x="164.24" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -8898,7 +8898,7 @@
           <text>my</text>
           </lyric>
         </note>
-      <note default-x="163.57" default-y="-35.00">
+      <note default-x="164.24" default-y="-35.00">
         <chord/>
         <pitch>
           <step>F</step>
@@ -8910,7 +8910,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="163.57" default-y="-25.00">
+      <note default-x="164.24" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -8923,7 +8923,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="74" width="199.70">
+    <measure number="74" width="200.89">
       <harmony print-frame="no" color="#75507B">
         <root>
           <root-step>C</root-step>
@@ -9016,7 +9016,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="108.99" default-y="-50.00">
+      <note default-x="109.38" default-y="-50.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -9035,7 +9035,7 @@
           <slur type="stop" number="6"/>
           </notations>
         </note>
-      <note default-x="108.99" default-y="-40.00">
+      <note default-x="109.38" default-y="-40.00">
         <chord/>
         <pitch>
           <step>E</step>
@@ -9046,7 +9046,7 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <note default-x="108.99" default-y="-30.00">
+      <note default-x="109.38" default-y="-30.00">
         <chord/>
         <pitch>
           <step>G</step>
@@ -9065,7 +9065,7 @@
         <dot/>
         </note>
       </measure>
-    <measure number="75" width="217.76">
+    <measure number="75" width="212.99">
       <harmony print-frame="no" color="#75507B">
         <root>
           <root-step>B</root-step>
@@ -9073,9 +9073,9 @@
           </root>
         <kind>major</kind>
         </harmony>
-      <note default-x="25.10" default-y="-50.00">
+      <note default-x="25.10" default-y="-45.00">
         <pitch>
-          <step>C</step>
+          <step>D</step>
           <octave>4</octave>
           </pitch>
         <duration>3</duration>
@@ -9114,9 +9114,9 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="72.87" default-y="-50.00">
+      <note default-x="71.68" default-y="-45.00">
         <pitch>
-          <step>C</step>
+          <step>D</step>
           <octave>4</octave>
           </pitch>
         <duration>3</duration>
@@ -9130,7 +9130,7 @@
           <text>herd</text>
           </lyric>
         </note>
-      <note default-x="72.87" default-y="-35.00">
+      <note default-x="71.68" default-y="-35.00">
         <chord/>
         <pitch>
           <step>F</step>
@@ -9142,7 +9142,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="72.87" default-y="-20.00">
+      <note default-x="71.68" default-y="-20.00">
         <chord/>
         <pitch>
           <step>B</step>
@@ -9161,7 +9161,7 @@
           </root>
         <kind text="m7">minor-seventh</kind>
         </harmony>
-      <note default-x="120.63" default-y="-55.00">
+      <note default-x="118.25" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -9178,7 +9178,7 @@
           <text>of</text>
           </lyric>
         </note>
-      <note default-x="120.63" default-y="-45.00">
+      <note default-x="118.25" default-y="-45.00">
         <chord/>
         <pitch>
           <step>D</step>
@@ -9190,7 +9190,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="120.63" default-y="-25.00">
+      <note default-x="118.25" default-y="-25.00">
         <chord/>
         <pitch>
           <step>A</step>
@@ -9202,7 +9202,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="168.39" default-y="-55.00">
+      <note default-x="164.82" default-y="-55.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
@@ -9219,7 +9219,7 @@
           <text>my</text>
           </lyric>
         </note>
-      <note default-x="168.39" default-y="-45.00">
+      <note default-x="164.82" default-y="-45.00">
         <chord/>
         <pitch>
           <step>D</step>
@@ -9231,7 +9231,7 @@
         <dot/>
         <stem>up</stem>
         </note>
-      <note default-x="168.39" default-y="-30.00">
+      <note default-x="164.82" default-y="-30.00">
         <chord/>
         <pitch>
           <step>G</step>
