@@ -19,3 +19,7 @@ I will praise You, O God, before the world!
 ## Notes
 
 Lyrics for this song were adapted from Psalm 108.
+
+## Copyright/License
+
+©2013 C. Michael Pilato; License: [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/)
