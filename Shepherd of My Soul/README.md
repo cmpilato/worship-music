@@ -33,3 +33,7 @@ Let my cup overflow with your pow'r.
 ## Notes
 
 Lyrics for this song were adapted from Psalm 23.
+
+## Copyright/License
+
+©2019 C. Michael Pilato; License: [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/)

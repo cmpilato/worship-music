@@ -43,3 +43,7 @@ Yours forever, amen.
 
 This original version of this song (based on the Lord's Prayer) was writting March 8, 2016.
 The ending bit (taken from Ephesians 3:20-21) was added much later on June 22, 2018.
+
+## Copyright/License
+
+©2016 C. Michael Pilato; License: [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/)
