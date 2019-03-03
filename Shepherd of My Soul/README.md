@@ -2,33 +2,33 @@
 
 ## Lyrics
 
-    You are my Shepherd.
-    I'll want for nothing.
-    You make me lie down
-    In pastures of green.
-    Beside still waters
-    And down paths of righteousness
-    All for your name's sake,
-    Shepherd, you lead.
+You are my Shepherd.  
+I'll want for nothing.  
+You make me lie down  
+In pastures of green.  
+Beside still waters  
+And down paths of righteousness  
+All for your name's sake,  
+Shepherd, you lead.  
     
-    You restore my soul.  You restore my soul.
-    Surely goodness and mercy will follow.
-    And I will dwell in the house of the Lord forever,
-    There with my Shepherd, Shepherd of my soul.
+You restore my soul.  You restore my soul.  
+Surely goodness and mercy will follow.  
+And I will dwell in the house of the Lord forever,  
+There with my Shepherd, Shepherd of my soul.  
     
-    Even when walking
-    Down through the valley
-    There in death's shadow
-    No evil I'll fear.
-    You're always with me.
-    Your rod and staff comfort me.
-    Jesus, my Shepherd,
-    You're always near.
+Even when walking  
+Down through the valley  
+There in death's shadow  
+No evil I'll fear.  
+You're always with me.  
+Your rod and staff comfort me.  
+Jesus, my Shepherd,  
+You're always near.  
     
-    You set a table before me,
-    With my enemies all around.
-    Let your anointing fall on me.
-    Let my cup overflow with your pow'r.
+You set a table before me,  
+With my enemies all around.  
+Let your anointing fall on me.  
+Let my cup overflow with your pow'r.  
 
 ## Notes
 
