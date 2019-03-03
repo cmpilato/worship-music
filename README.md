@@ -1,3 +1,3 @@
 # Worship Music
 
-Songs for the Christian church, originally compoosed and permissively licensed.
+Original music, composed by [C. Michael Pilato](http://cmichaelpilato.com) for the Christian church and permissively licensed.
