@@ -45,13 +45,13 @@ Holy Bible as a source text for lyrical inspirition — plus the general
 fact that [everything is a remix](https://www.youtube.com/watch?v=nJPERZDfyWc)
 — the notion of a worship song being the result of truly creative _ex
 nihilo_ act by a single or small handful of actors (songwriters)
-simply doesn't stand up.  _Every_ songwriter stands on the shoulders
-of those who've gone before them — creators of instruments,
+simply doesn't stand up to scrutiny.  _Every_ songwriter stands on the
+shoulders of those who've gone before them — creators of instruments,
 of musical theory, of language and its nuances, of symbolism and
- found in the physical world, etc.  And if you trace backward
+metaphor found in the physical world, etc.  And if you trace backward
 the lineage of every stage of the remixing, reprocessing, repurposing
-act that we call "creativity" to its original source, you find
-that all things spring from a single place:  God, _the_ Creator.
+act that we call "creativity" to its original source, you find that
+all things spring from a single place: God, _the_ Creator.
 
 ## License
 
