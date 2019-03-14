@@ -21,7 +21,7 @@ others wishing to learn and use this music.  This repository and its
 content are the direct result of that realization and my attempt to
 mitigate that problem.
 
-## Yeah, by why?
+## Yeah, but why?
 
 As a beneficiary of and contributor to free and open-source software
 for decades, I recognize the value of things developed and released
