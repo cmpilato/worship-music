@@ -39,6 +39,13 @@ So when the victory comes it's You.  Lord, it's You!
 
 ## Notes
 
+Original idea (and most of the details) composed while driving after
+church to an indoor soccer match.  Immediately before leaving the
+church that morning, a sister in the church had asked me if I'd
+consider writing a song with "daily bread" as a central theme,
+something gleaned from a mutual sister's ongoing struggle with breast
+cancer and God's daily provision of grace enough for that day.
+
 ## Copyright/License
 
 ©2011 C. Michael Pilato; License: [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/)
