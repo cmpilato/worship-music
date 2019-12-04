@@ -2,37 +2,37 @@
 
 ## Lyrics
 
-Glory to Your Name! 
-Glory to Your Name! 
-Glory to Your Name! 
+Glory to Your Name!  
+Glory to Your Name!  
+Glory to Your Name!  
 
-Risen and conquering King. 
-Humbly we praise. 
-Master of everything. 
-Now and always. 
+Risen and conquering King.  
+Humbly we praise.  
+Master of everything.  
+Now and always.  
 
-You traded splendor You deserve, 
-And bought us at great price. 
-You paid a debt that was not Yours 
-And brought us back to life. 
-Glory to Your Name! 
+You traded splendor You deserve,  
+And bought us at great price.  
+You paid a debt that was not Yours  
+And brought us back to life.  
+Glory to Your Name!  
 
-Risen and conquering King. 
-Humbly we praise. 
-Master of everything. 
-Now and always. 
+Risen and conquering King.  
+Humbly we praise.  
+Master of everything.  
+Now and always.  
 
-Fulfulling what the prophets said, 
-You gave all You could give, 
-Then, rising, crushed the serpent's head 
-That stillborn souls might live! 
-Glory to Your Name! 
-Glory to Your Name! 
-Glory to Your Name! 
+Fulfulling what the prophets said,  
+You gave all You could give,  
+Then, rising, crushed the serpent's head  
+That stillborn souls might live!  
+Glory to Your Name!  
+Glory to Your Name!  
+Glory to Your Name!  
 
-Jesus, Saviour, 
-Mighty Conqueror — 
-Now and forever You will reign. 
+Jesus, Saviour,  
+Mighty Conqueror —  
+Now and forever You will reign.  
 
 ## Notes
 
