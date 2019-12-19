@@ -2,49 +2,49 @@
 
 ## Lyrics
 
-Come, let us sing for joy. 
-Come, let us kneel before 
-The Lord our God, 
-The Lord our Maker. 
+Come, let us sing for joy.  
+Come, let us kneel before  
+The Lord our God,  
+The Lord our Maker.  
 
-Come, bring Him gratitude. 
-Come, let Him make us new. 
-The Lord our God, 
-The Lord our Maker. 
+Come, bring Him gratitude.  
+Come, let Him make us new.  
+The Lord our God,  
+The Lord our Maker.  
 
-Kings fall down, He stands above. 
-Our great God, and His great love. 
-All creation will lift Him up,  
-With "Hallelujah!" 
+Kings fall down, He stands above.  
+Our great God, and His great love.  
+All creation will lift Him up,   
+With "Hallelujah!"  
 
-Come, let us all bow down. 
-Come, let us shout out loud 
-To the Rock 
-Of our Salvation! 
+Come, let us all bow down.  
+Come, let us shout out loud  
+To the Rock  
+Of our Salvation!  
 
-Kings fall down, He stands above. 
-Our great God, and His great love. 
-All creation will lift Him up,  
-With "Hallelujah!" 
+Kings fall down, He stands above.  
+Our great God, and His great love.  
+All creation will lift Him up,   
+With "Hallelujah!"  
 
-Kings fall down, He stands above. 
-Our great God, and His great love. 
-All creation will lift Him up … 
+Kings fall down, He stands above.  
+Our great God, and His great love.  
+All creation will lift Him up …  
 
-Hallelujah, we will sing.  Hallelujah, to our King. 
-Hallelujah for everything that You are, and that You've done. 
-Hallelujah! 
+Hallelujah, we will sing.  Hallelujah, to our King.  
+Hallelujah for everything that You are, and that You've done.  
+Hallelujah!  
 
-Kings fall down, You rise above. 
-Our great God, and Your great love. 
-All creation will lift You up … 
+Kings fall down, You rise above.  
+Our great God, and Your great love.  
+All creation will lift You up …  
 
-Hallelujah, we will sing.  Hallelujah, to our King. 
-Hallelujah for everything that You are, and that You've done. 
-Hallelujah, we adore.  Hallelujah, to our Lord. 
-Hallelujah forevermore and ever more … 
-Hallelujah! 
-Hallelujah! 
+Hallelujah, we will sing.  Hallelujah, to our King.  
+Hallelujah for everything that You are, and that You've done.  
+Hallelujah, we adore.  Hallelujah, to our Lord.  
+Hallelujah forevermore and ever more …  
+Hallelujah!  
+Hallelujah!  
 
 ## Notes
 
