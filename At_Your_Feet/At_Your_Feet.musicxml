@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
-<score-partwise version="3.1">
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise>
   <work>
     <work-title>At Your Feet</work-title>
     </work>
@@ -8,8 +8,8 @@
     <creator type="composer">Gavin M. Pilato</creator>
     <rights>©2019 Gavin M. Pilato; License: CC-BY-3.0</rights>
     <encoding>
-      <software>MuseScore 2.3.2</software>
-      <encoding-date>2019-07-20</encoding-date>
+      <software>MuseScore 2.1.0</software>
+      <encoding-date>2020-03-03</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -72,7 +72,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <top-system-distance>170.00</top-system-distance>
           </system-layout>
@@ -93,12 +93,12 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <metronome parentheses="no" default-x="-32.50" default-y="40.00">
+          <metronome parentheses="no">
             <beat-unit>quarter</beat-unit>
             <per-minute>80</per-minute>
             </metronome>
           </direction-type>
-        <sound tempo="80"/>
+        <sound tempo="79.9998"/>
         </direction>
       <harmony print-frame="no" color="#5C3566">
         <root>
@@ -168,7 +168,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Let</text>
           </lyric>
@@ -183,7 +183,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
           </lyric>
@@ -206,7 +206,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>rocks</text>
           </lyric>
@@ -221,7 +221,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>cry</text>
           </lyric>
@@ -244,7 +244,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>out.</text>
           </lyric>
@@ -265,7 +265,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Let</text>
           </lyric>
@@ -280,7 +280,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
           </lyric>
@@ -303,7 +303,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>peo</text>
           </lyric>
@@ -318,7 +318,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>ple</text>
           </lyric>
@@ -341,7 +341,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>shout,</text>
           </lyric>
@@ -362,7 +362,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>for</text>
           </lyric>
@@ -377,7 +377,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
           </lyric>
@@ -400,7 +400,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>King</text>
           </lyric>
@@ -415,7 +415,7 @@
         <type>quarter</type>
         <dot/>
         <stem>down</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>has</text>
           </lyric>
@@ -447,11 +447,17 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>come</text>
           </lyric>
         </note>
+      <harmony print-frame="no" color="#5C3566">
+        <root>
+          <root-step>D</root-step>
+          </root>
+        <kind text="sus">suspended-fourth</kind>
+        </harmony>
       <note default-x="124.32" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -462,7 +468,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>to</text>
           </lyric>
@@ -485,7 +491,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>claim</text>
           </lyric>
@@ -500,7 +506,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>His</text>
           </lyric>
@@ -523,7 +529,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>throne.</text>
           </lyric>
@@ -544,7 +550,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>For</text>
           </lyric>
@@ -559,7 +565,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
           </lyric>
@@ -582,7 +588,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Son</text>
           </lyric>
@@ -597,7 +603,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>who</text>
           </lyric>
@@ -620,7 +626,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>lives</text>
           </lyric>
@@ -641,7 +647,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>is</text>
           </lyric>
@@ -656,7 +662,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
           </lyric>
@@ -679,7 +685,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>one</text>
           </lyric>
@@ -694,7 +700,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>who</text>
           </lyric>
@@ -717,7 +723,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>gives</text>
           </lyric>
@@ -737,7 +743,7 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>His</text>
           </lyric>
@@ -760,7 +766,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>life</text>
           </lyric>
@@ -775,7 +781,7 @@
         <type>quarter</type>
         <dot/>
         <stem>down</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>to</text>
           </lyric>
@@ -807,11 +813,17 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>save</text>
           </lyric>
         </note>
+      <harmony print-frame="no" color="#5C3566">
+        <root>
+          <root-step>D</root-step>
+          </root>
+        <kind text="sus">suspended-fourth</kind>
+        </harmony>
       <note default-x="118.07" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -822,7 +834,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>my</text>
           </lyric>
@@ -845,7 +857,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>wretch</text>
           </lyric>
@@ -860,7 +872,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>ed</text>
           </lyric>
@@ -883,7 +895,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>soul.</text>
           </lyric>
@@ -904,7 +916,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>Hal</text>
           </lyric>
@@ -919,7 +931,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>middle</syllabic>
           <text>le</text>
           </lyric>
@@ -942,7 +954,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>middle</syllabic>
           <text>lu</text>
           </lyric>
@@ -957,7 +969,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>jah,</text>
           </lyric>
@@ -980,7 +992,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Lord</text>
           </lyric>
@@ -1002,7 +1014,7 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>of</text>
           </lyric>
@@ -1022,7 +1034,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.91" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>all!</text>
           </lyric>
@@ -1075,7 +1087,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>At</text>
           </lyric>
@@ -1090,7 +1102,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Your</text>
           </lyric>
@@ -1113,7 +1125,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>feet</text>
           </lyric>
@@ -1132,7 +1144,7 @@
         <notations>
           <slur type="start" number="1"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>we</text>
           </lyric>
@@ -1219,7 +1231,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>bow.</text>
           </lyric>
@@ -1276,7 +1288,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>On</text>
           </lyric>
@@ -1291,7 +1303,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>our</text>
           </lyric>
@@ -1314,7 +1326,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>knees</text>
           </lyric>
@@ -1330,7 +1342,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>we</text>
           </lyric>
@@ -1351,7 +1363,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>fall</text>
           </lyric>
@@ -1394,7 +1406,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>down.</text>
           </lyric>
@@ -1483,7 +1495,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Let</text>
           </lyric>
@@ -1498,7 +1510,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Your</text>
           </lyric>
@@ -1521,7 +1533,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>prais</text>
           </lyric>
@@ -1536,7 +1548,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>es</text>
           </lyric>
@@ -1547,7 +1559,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>134.75</system-distance>
           </system-layout>
@@ -1568,7 +1580,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>ring,</text>
           </lyric>
@@ -1589,7 +1601,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>e</text>
           </lyric>
@@ -1604,7 +1616,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>ver</text>
           </lyric>
@@ -1627,7 +1639,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>ech</text>
           </lyric>
@@ -1642,7 +1654,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>middle</syllabic>
           <text>o</text>
           </lyric>
@@ -1665,7 +1677,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>ing,</text>
           </lyric>
@@ -1686,7 +1698,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>for</text>
           </lyric>
@@ -1701,7 +1713,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Your</text>
           </lyric>
@@ -1724,7 +1736,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>blood</text>
           </lyric>
@@ -1739,7 +1751,7 @@
         <type>quarter</type>
         <dot/>
         <stem>down</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>has</text>
           </lyric>
@@ -1762,11 +1774,17 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>bought</text>
           </lyric>
         </note>
+      <harmony print-frame="no" color="#5C3566">
+        <root>
+          <root-step>D</root-step>
+          </root>
+        <kind text="sus">suspended-fourth</kind>
+        </harmony>
       <note default-x="88.71" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -1777,7 +1795,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>me</text>
           </lyric>
@@ -1800,7 +1818,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>lib</text>
           </lyric>
@@ -1815,7 +1833,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>middle</syllabic>
           <text>er</text>
           </lyric>
@@ -1838,7 +1856,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>ty.</text>
           </lyric>
@@ -1859,7 +1877,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Let</text>
           </lyric>
@@ -1874,7 +1892,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Your</text>
           </lyric>
@@ -1885,7 +1903,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>134.75</system-distance>
           </system-layout>
@@ -1906,7 +1924,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>church</text>
           </lyric>
@@ -1921,7 +1939,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>pro</text>
           </lyric>
@@ -1944,7 +1962,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>claim</text>
           </lyric>
@@ -1965,7 +1983,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Your</text>
           </lyric>
@@ -1980,7 +1998,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>e</text>
           </lyric>
@@ -2003,7 +2021,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>middle</syllabic>
           <text>ter</text>
           </lyric>
@@ -2018,7 +2036,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>nal</text>
           </lyric>
@@ -2041,7 +2059,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>name,</text>
           </lyric>
@@ -2062,7 +2080,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>for</text>
           </lyric>
@@ -2077,7 +2095,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
           </lyric>
@@ -2100,7 +2118,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Son</text>
           </lyric>
@@ -2115,7 +2133,7 @@
         <type>quarter</type>
         <dot/>
         <stem>down</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>of</text>
           </lyric>
@@ -2138,11 +2156,17 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>God</text>
           </lyric>
         </note>
+      <harmony print-frame="no" color="#5C3566">
+        <root>
+          <root-step>D</root-step>
+          </root>
+        <kind text="sus">suspended-fourth</kind>
+        </harmony>
       <note default-x="86.93" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -2153,7 +2177,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>has</text>
           </lyric>
@@ -2186,7 +2210,7 @@
         <dot/>
         <stem>down</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>o</text>
           </lyric>
@@ -2202,7 +2226,7 @@
         <dot/>
         <stem>down</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>middle</syllabic>
           <text>ver</text>
           </lyric>
@@ -2221,7 +2245,7 @@
         <notations>
           <slur type="start" number="1"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>come</text>
           </lyric>
@@ -2252,7 +2276,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         <beam number="2">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
           </lyric>
@@ -2272,7 +2296,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.91" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>grave!</text>
           </lyric>
@@ -2325,7 +2349,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>At</text>
           </lyric>
@@ -2340,7 +2364,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Your</text>
           </lyric>
@@ -2363,7 +2387,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>feet</text>
           </lyric>
@@ -2382,7 +2406,7 @@
         <notations>
           <slur type="start" number="1"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>we</text>
           </lyric>
@@ -2460,7 +2484,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>bow.</text>
           </lyric>
@@ -2517,7 +2541,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>On</text>
           </lyric>
@@ -2532,7 +2556,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>our</text>
           </lyric>
@@ -2564,7 +2588,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>knees</text>
           </lyric>
@@ -2580,7 +2604,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>we</text>
           </lyric>
@@ -2601,7 +2625,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>fall</text>
           </lyric>
@@ -2644,7 +2668,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>down.</text>
           </lyric>
@@ -2701,7 +2725,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>At</text>
           </lyric>
@@ -2716,7 +2740,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Your</text>
           </lyric>
@@ -2739,7 +2763,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>feet</text>
           </lyric>
@@ -2758,7 +2782,7 @@
         <notations>
           <slur type="start" number="1"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>we</text>
           </lyric>
@@ -2836,7 +2860,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>bow.</text>
           </lyric>
@@ -2893,7 +2917,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>On</text>
           </lyric>
@@ -2908,7 +2932,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>our</text>
           </lyric>
@@ -2919,7 +2943,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <top-system-distance>70.00</top-system-distance>
           </system-layout>
@@ -2940,7 +2964,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>knees</text>
           </lyric>
@@ -2956,7 +2980,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>we</text>
           </lyric>
@@ -2977,7 +3001,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>fall</text>
           </lyric>
@@ -3020,7 +3044,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>down.</text>
           </lyric>
@@ -3106,7 +3130,7 @@
         <notations>
           <slur type="start" number="1"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>You</text>
           </lyric>
@@ -3162,7 +3186,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>are</text>
           </lyric>
@@ -3182,7 +3206,7 @@
         <voice>1</voice>
         <type>16th</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
           </lyric>
@@ -3205,7 +3229,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>love</text>
           </lyric>
@@ -3220,7 +3244,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>that</text>
           </lyric>
@@ -3236,7 +3260,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         <beam number="2">forward hook</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>gives</text>
           </lyric>
@@ -3259,7 +3283,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">continue</beam>
-        <lyric number="1" default-x="7.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>ev'</text>
           </lyric>
@@ -3275,7 +3299,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         <beam number="2">forward hook</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>middle</syllabic>
           <text>ry</text>
           </lyric>
@@ -3291,7 +3315,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>thing.</text>
           </lyric>
@@ -3302,7 +3326,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -3325,7 +3349,7 @@
         <notations>
           <slur type="start" number="1"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>You</text>
           </lyric>
@@ -3381,7 +3405,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>are</text>
           </lyric>
@@ -3401,7 +3425,7 @@
         <voice>1</voice>
         <type>16th</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
           </lyric>
@@ -3424,7 +3448,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>auth</text>
           </lyric>
@@ -3439,7 +3463,7 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>or</text>
           </lyric>
@@ -3455,7 +3479,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         <beam number="2">forward hook</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>of</text>
           </lyric>
@@ -3478,7 +3502,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">continue</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>his</text>
           </lyric>
@@ -3494,7 +3518,7 @@
         <stem>up</stem>
         <beam number="1">continue</beam>
         <beam number="2">forward hook</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>middle</syllabic>
           <text>tor</text>
           </lyric>
@@ -3510,7 +3534,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>y</text>
           </lyric>
@@ -3533,7 +3557,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>You</text>
           </lyric>
@@ -3557,7 +3581,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>are</text>
           </lyric>
@@ -3577,7 +3601,7 @@
         <voice>1</voice>
         <type>16th</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
           </lyric>
@@ -3601,7 +3625,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>ref</text>
           </lyric>
@@ -3617,7 +3641,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>uge</text>
           </lyric>
@@ -3639,7 +3663,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>that</text>
           </lyric>
@@ -3659,7 +3683,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>I</text>
           </lyric>
@@ -3701,7 +3725,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>need.</text>
           </lyric>
@@ -3744,7 +3768,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -3767,7 +3791,7 @@
         <notations>
           <slur type="start" number="1"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>You</text>
           </lyric>
@@ -3823,7 +3847,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>are</text>
           </lyric>
@@ -3843,7 +3867,7 @@
         <voice>1</voice>
         <type>16th</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
           </lyric>
@@ -3866,7 +3890,7 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>right</text>
           </lyric>
@@ -3881,7 +3905,7 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>eous</text>
           </lyric>
@@ -3897,7 +3921,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         <beam number="2">forward hook</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>and</text>
           </lyric>
@@ -3919,7 +3943,7 @@
         <dot/>
         <stem>down</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>worth</text>
           </lyric>
@@ -3933,7 +3957,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>y.</text>
           </lyric>
@@ -3958,7 +3982,7 @@
         <notations>
           <slur type="start" number="1"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>You</text>
           </lyric>
@@ -4014,7 +4038,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>are</text>
           </lyric>
@@ -4034,7 +4058,7 @@
         <voice>1</voice>
         <type>16th</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
           </lyric>
@@ -4057,7 +4081,7 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>stead</text>
           </lyric>
@@ -4072,7 +4096,7 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>fast</text>
           </lyric>
@@ -4088,7 +4112,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         <beam number="2">forward hook</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>be</text>
           </lyric>
@@ -4110,7 +4134,7 @@
         <dot/>
         <stem>down</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>fore</text>
           </lyric>
@@ -4124,7 +4148,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>me.</text>
           </lyric>
@@ -4147,7 +4171,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>All</text>
           </lyric>
@@ -4171,7 +4195,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>hail</text>
           </lyric>
@@ -4191,7 +4215,7 @@
         <voice>1</voice>
         <type>16th</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>the</text>
           </lyric>
@@ -4202,7 +4226,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -4224,7 +4248,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>name</text>
           </lyric>
@@ -4240,7 +4264,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>begin</syllabic>
           <text>a</text>
           </lyric>
@@ -4262,7 +4286,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>end</syllabic>
           <text>bove</text>
           </lyric>
@@ -4282,7 +4306,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>all</text>
           </lyric>
@@ -4324,7 +4348,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.91" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>names!</text>
           </lyric>
@@ -4379,7 +4403,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>At</text>
           </lyric>
@@ -4394,7 +4418,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Your</text>
           </lyric>
@@ -4417,7 +4441,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>feet</text>
           </lyric>
@@ -4436,7 +4460,7 @@
         <notations>
           <slur type="start" number="1"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>we</text>
           </lyric>
@@ -4514,7 +4538,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>bow.</text>
           </lyric>
@@ -4558,7 +4582,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>On</text>
           </lyric>
@@ -4573,7 +4597,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>our</text>
           </lyric>
@@ -4605,7 +4629,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>knees</text>
           </lyric>
@@ -4621,7 +4645,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>we</text>
           </lyric>
@@ -4642,7 +4666,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>fall</text>
           </lyric>
@@ -4685,7 +4709,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>down.</text>
           </lyric>
@@ -4729,7 +4753,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>At</text>
           </lyric>
@@ -4744,7 +4768,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Your</text>
           </lyric>
@@ -4767,7 +4791,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>feet</text>
           </lyric>
@@ -4786,7 +4810,7 @@
         <notations>
           <slur type="start" number="1"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>we</text>
           </lyric>
@@ -4864,7 +4888,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>bow.</text>
           </lyric>
@@ -4921,7 +4945,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>On</text>
           </lyric>
@@ -4936,7 +4960,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>our</text>
           </lyric>
@@ -4947,7 +4971,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -4968,7 +4992,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>knees</text>
           </lyric>
@@ -4984,7 +5008,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>we</text>
           </lyric>
@@ -5005,7 +5029,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>fall</text>
           </lyric>
@@ -5048,7 +5072,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>down.</text>
           </lyric>
@@ -5105,7 +5129,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>At</text>
           </lyric>
@@ -5120,7 +5144,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>Your</text>
           </lyric>
@@ -5143,7 +5167,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>feet</text>
           </lyric>
@@ -5162,7 +5186,7 @@
         <notations>
           <slur type="start" number="1"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>we</text>
           </lyric>
@@ -5240,7 +5264,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>bow.</text>
           </lyric>
@@ -5297,7 +5321,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>On</text>
           </lyric>
@@ -5312,7 +5336,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>our</text>
           </lyric>
@@ -5323,7 +5347,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -5344,7 +5368,7 @@
         <type>quarter</type>
         <dot/>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>knees</text>
           </lyric>
@@ -5360,7 +5384,7 @@
         <dot/>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>we</text>
           </lyric>
@@ -5381,7 +5405,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="6.58" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>fall</text>
           </lyric>
@@ -5424,7 +5448,7 @@
         <notations>
           <tied type="start"/>
           </notations>
-        <lyric number="1" default-x="8.08" default-y="-80.00">
+        <lyric number="1">
           <syllabic>single</syllabic>
           <text>down.</text>
           </lyric>
