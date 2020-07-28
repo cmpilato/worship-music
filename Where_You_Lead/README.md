@@ -24,7 +24,7 @@ From the rocks along our way.
   
 Be our strength in hours of weakness.  
 In our wanderings, be our guide.  
-Through endeavour, failure, danger,  
+Through endeavour and failure and danger,  
 Father, be there at our side.  
   
 Let not these words ring hollow,  
