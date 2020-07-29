@@ -56,8 +56,8 @@ On June 30, 2020, however, I gave up trying to make fit what never
 would, and instead restructured the whole song around my additions,
 heavily editing the original hymn lyric and melody while trying to
 preserve the essence of what it said.  The beautiful sentiment held by
-the original song -- to wish that one had a thousand tongues to sing
-God's praise all the louder! -- remains the core of this song.
+the original song&mdash;to wish that one had a thousand tongues to sing
+God's praise all the louder!&mdash;remains the core of this song.
 
 ## Copyright/License
 
