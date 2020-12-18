@@ -45,12 +45,12 @@ O, for a thousand tongues to sing!
 ## Notes
 
 This song began in January 2016 as a modernized arrangement of the
-hymn, "O For a Thousand Tongues to Sing" which preserved the original
-melody and most of the original lyrics, but added what is here the
-second halves of the verses.  Unfortunately, that combination never
-really worked, musically.  I always liked those additions, though, and
-was saddened by the mismatch and failed integration of them into the
-original hymn.
+Public Domain hymn, "O For a Thousand Tongues to Sing" (by Charles
+Wesley) which preserved the original melody and most of the original
+lyrics, but added what is here the second halves of the verses.
+Unfortunately, that combination never really worked, musically.  I
+always liked those additions, though, and was saddened by the mismatch
+and failed integration of them into the original hymn.
 
 On June 30, 2020, however, I gave up trying to make fit what never
 would, and instead restructured the whole song around my additions,
@@ -61,4 +61,5 @@ God's praise all the louder!&mdash;remains the core of this song.
 
 ## Copyright/License
 
-Public Domain
+©2020 C. Michael Pilato; License: [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/)
+
