@@ -23,7 +23,7 @@
       <tenths>40</tenths>
       </scaling>
     <page-layout>
-      <page-height>2032</page-height>
+      <page-height>1596.57</page-height>
       <page-width>1233.71</page-width>
       <page-margins type="even">
         <left-margin>85.7143</left-margin>
@@ -43,13 +43,21 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.857" default-y="1946.29" justify="center" valign="top" font-size="22">Gracious and Holy</credit-words>
+    <credit-words default-x="616.857" default-y="1510.86" justify="center" valign="top" font-size="22">Gracious and Holy</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1148" default-y="1846.29" justify="right" valign="bottom">C. Michael Pilato</credit-words>
+    <credit-words default-x="1148" default-y="1410.86" justify="right" valign="bottom">C. Michael Pilato</credit-words>
     </credit>
   <credit page="1">
+    <credit-type>rights</credit-type>
+    <credit-words default-x="616.857" default-y="85.7143" justify="center" valign="bottom" font-size="9">©2021 C. Michael Pilato; License: CC-BY-3.0</credit-words>
+    </credit>
+  <credit page="2">
+    <credit-type>rights</credit-type>
+    <credit-words default-x="616.857" default-y="85.7143" justify="center" valign="bottom" font-size="9">©2021 C. Michael Pilato; License: CC-BY-3.0</credit-words>
+    </credit>
+  <credit page="3">
     <credit-type>rights</credit-type>
     <credit-words default-x="616.857" default-y="85.7143" justify="center" valign="bottom" font-size="9">©2021 C. Michael Pilato; License: CC-BY-3.0</credit-words>
     </credit>
@@ -386,7 +394,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>131.60</system-distance>
+          <system-distance>160.40</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
@@ -686,7 +694,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>140.63</system-distance>
+          <system-distance>160.40</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
@@ -1085,7 +1093,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>148.11</system-distance>
+          <system-distance>160.40</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
@@ -1413,7 +1421,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>130.63</system-distance>
+          <system-distance>160.40</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
@@ -2235,13 +2243,13 @@
         </note>
       </measure>
     <measure number="25" width="462.24">
-      <print new-system="yes">
+      <print new-page="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>148.11</system-distance>
+          <top-system-distance>70.00</top-system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
@@ -5004,13 +5012,13 @@
         </note>
       </measure>
     <measure number="66" width="301.37">
-      <print new-system="yes">
+      <print new-page="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>106.50</system-distance>
+          <top-system-distance>70.00</top-system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
@@ -5350,7 +5358,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>120.48</system-distance>
+          <system-distance>270.48</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
