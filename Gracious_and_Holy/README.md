@@ -4,28 +4,28 @@
 
 You made the Earth and the heavens.  
 Spoke words to form them and fill them.  
-So all that we have is by your hand.  
-Gracious and holy you are.  
+So all that we have is by Your hand.  
+Gracious and holy You are.  
 You gave us freedom and purpose.  
 We chose rebellion and curses.  
 But hope lingered under the surface.  
-Gracious and holy you are.  
-Gracious and holy you are.  
+Gracious and holy You are.  
+Gracious and holy You are.  
   
 You are here, always with me,  
 Nearer than sacred to naked should be.  
 You speak promises over my shame.  
 I know that I'll never be the same.  
   
-You came to dwell with your people;  
+You came to dwell with Your people;  
 Strengthen the downcast and feeble;  
 And rescue us from every evil.  
-Gracious and holy you are.  
-Humbly you gave your life for us.  
+Gracious and holy You are.  
+Humbly you gave Your life for us.  
 Hope is reversing our curses,  
 Restoring our freedom and purpose.  
-Gracious and holy you are.  
-Gracious and holy you are.  
+Gracious and holy You are.  
+Gracious and holy You are.  
   
 You are here, always with me.  
 Nearer than righteous to wretched should be.  
@@ -35,13 +35,13 @@ I know that I'll never be the same.
 Now you are seated in Heaven,  
 So, by the Spirit You've given,  
 We will proclaim, "Christ is risen!"  
-Gracious and holy you are.  
-Gracious and holy you are.  
+Gracious and holy You are.  
+Gracious and holy You are.  
   
 You are here, always with me,  
 Nearer forever than failure could be.  
 You poured righteousness over my shame.  
-Called me your child and then gave me your name.  
+Called me Your child and then gave me Your name.  
 You are here, always with me,  
 Nearer forever than failure could be.  
 You poured righteousness over my shame.  
