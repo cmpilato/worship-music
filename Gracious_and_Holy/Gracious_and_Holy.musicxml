@@ -9,7 +9,7 @@
     <rights>©2021 C. Michael Pilato; License: CC-BY-3.0</rights>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2021-07-11</encoding-date>
+      <encoding-date>2021-07-12</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -50,14 +50,6 @@
     <credit-words default-x="1148" default-y="1410.86" justify="right" valign="bottom">C. Michael Pilato</credit-words>
     </credit>
   <credit page="1">
-    <credit-type>rights</credit-type>
-    <credit-words default-x="616.857" default-y="85.7143" justify="center" valign="bottom" font-size="9">©2021 C. Michael Pilato; License: CC-BY-3.0</credit-words>
-    </credit>
-  <credit page="2">
-    <credit-type>rights</credit-type>
-    <credit-words default-x="616.857" default-y="85.7143" justify="center" valign="bottom" font-size="9">©2021 C. Michael Pilato; License: CC-BY-3.0</credit-words>
-    </credit>
-  <credit page="3">
     <credit-type>rights</credit-type>
     <credit-words default-x="616.857" default-y="85.7143" justify="center" valign="bottom" font-size="9">©2021 C. Michael Pilato; License: CC-BY-3.0</credit-words>
     </credit>
@@ -394,7 +386,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>160.40</system-distance>
+          <system-distance>131.60</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
@@ -646,7 +638,7 @@
           <text>res</text>
           </lyric>
         </note>
-      <note default-x="193.37" default-y="-40.00">
+      <note default-x="193.38" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -692,9 +684,9 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
-          <system-distance>160.40</system-distance>
+          <system-distance>140.63</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
@@ -1091,9 +1083,9 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
-          <system-distance>160.40</system-distance>
+          <system-distance>148.11</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
@@ -1419,9 +1411,9 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
-          <system-distance>160.40</system-distance>
+          <system-distance>130.63</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
@@ -2243,13 +2235,13 @@
         </note>
       </measure>
     <measure number="25" width="462.24">
-      <print new-page="yes">
+      <print new-system="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
-          <top-system-distance>70.00</top-system-distance>
+          <system-distance>148.11</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
@@ -3032,7 +3024,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
           <system-distance>163.29</system-distance>
           </system-layout>
@@ -3331,7 +3323,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
           <system-distance>111.85</system-distance>
           </system-layout>
@@ -3670,7 +3662,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
           <system-distance>148.58</system-distance>
           </system-layout>
@@ -4066,7 +4058,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
           <system-distance>126.33</system-distance>
           </system-layout>
@@ -4374,12 +4366,12 @@
           </lyric>
         </note>
       </measure>
-    <measure number="59" width="391.61">
+    <measure number="59" width="390.81">
       <print new-system="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
           <system-distance>108.11</system-distance>
           </system-layout>
@@ -4407,7 +4399,7 @@
           <text>right</text>
           </lyric>
         </note>
-      <note default-x="149.72" default-y="-35.00">
+      <note default-x="149.55" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4423,7 +4415,7 @@
           <text>eous</text>
           </lyric>
         </note>
-      <note default-x="197.69" default-y="-35.00">
+      <note default-x="197.52" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4440,7 +4432,7 @@
           <text>ness</text>
           </lyric>
         </note>
-      <note default-x="249.06" default-y="-35.00">
+      <note default-x="248.72" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4457,7 +4449,7 @@
           <text>o</text>
           </lyric>
         </note>
-      <note default-x="300.42" default-y="-35.00">
+      <note default-x="299.92" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -4474,7 +4466,7 @@
           <text>ver</text>
           </lyric>
         </note>
-      <note default-x="351.79" default-y="-30.00">
+      <note default-x="351.12" default-y="-30.00">
         <pitch>
           <step>G</step>
           <alter>1</alter>
@@ -4495,7 +4487,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="60" width="305.70">
+    <measure number="60" width="307.30">
       <harmony print-frame="no" color="#5C3566">
         <root>
           <root-step>F</root-step>
@@ -4518,7 +4510,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="61.40" default-y="-25.00">
+      <note default-x="59.09" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4533,7 +4525,7 @@
           <text>shame,</text>
           </lyric>
         </note>
-      <note default-x="134.58" default-y="-25.00">
+      <note default-x="144.13" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4549,18 +4541,7 @@
           <text>called</text>
           </lyric>
         </note>
-      <harmony print-frame="no" color="#5C3566">
-        <root>
-          <root-step>E</root-step>
-          </root>
-        <kind>major</kind>
-        <bass>
-          <bass-step>G</bass-step>
-          <bass-alter>1</bass-alter>
-          </bass>
-        <offset>1</offset>
-        </harmony>
-      <note default-x="190.55" default-y="-25.00">
+      <note default-x="203.02" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4575,7 +4556,7 @@
           <text>me</text>
           </lyric>
         </note>
-      <note default-x="247.93" default-y="-20.00">
+      <note default-x="246.61" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -4592,7 +4573,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="61" width="364.97">
+    <measure number="61" width="364.17">
       <harmony print-frame="no" color="#5C3566">
         <root>
           <root-step>A</root-step>
@@ -4616,7 +4597,7 @@
           <text>child</text>
           </lyric>
         </note>
-      <note default-x="90.40" default-y="-15.00">
+      <note default-x="90.20" default-y="-15.00">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -4633,7 +4614,7 @@
           <text>and</text>
           </lyric>
         </note>
-      <note default-x="150.47" default-y="-15.00">
+      <note default-x="150.07" default-y="-15.00">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -4649,7 +4630,7 @@
           <text>then</text>
           </lyric>
         </note>
-      <note default-x="197.30" default-y="-15.00">
+      <note default-x="196.90" default-y="-15.00">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -4666,7 +4647,7 @@
           <text>gave</text>
           </lyric>
         </note>
-      <note default-x="257.37" default-y="-20.00">
+      <note default-x="256.77" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -4682,7 +4663,7 @@
           <text>me</text>
           </lyric>
         </note>
-      <note default-x="317.44" default-y="-25.00">
+      <note default-x="316.64" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -4703,7 +4684,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
           <system-distance>108.11</system-distance>
           </system-layout>
@@ -4905,7 +4886,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="65" width="322.04">
+    <measure number="65" width="322.05">
       <harmony print-frame="no" color="#5C3566">
         <root>
           <root-step>A</root-step>
@@ -5012,13 +4993,13 @@
         </note>
       </measure>
     <measure number="66" width="301.37">
-      <print new-page="yes">
+      <print new-system="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
-          <top-system-distance>70.00</top-system-distance>
+          <system-distance>106.50</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
@@ -5356,9 +5337,9 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
-          <system-distance>270.48</system-distance>
+          <system-distance>120.48</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no" color="#5C3566">
