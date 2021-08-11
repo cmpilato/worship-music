@@ -4,21 +4,32 @@
 
 My heart is sure, O God.  
 I am secure, O God.  
-With everything my soul will sing to  
-You.  I will awaken the dawn.  
+With everything my soul will sing to You.  
+I will awaken the dawn.  
     
 Great are you, Lord; higher than heavens.  
 Your faithfulness fills the skies.  
 Be exalted, O Lord, above all the heavens  
 And let Your glory rise!  
-    
+
+You are a given, O God.  
+You will deliver, O God.  
+Salvation You bring, so my soul will sing to You.  
+I will awaken the dawn.  
+
+Great are you, Lord; higher than heavens.  
+Your faithfulness fills the skies.  
+Be exalted, O Lord, above all the heavens  
+And let Your glory rise!  
+
 I will sing to You.  
 I will sing to You.  
 I will praise You, O God, before the world!  
 
 ## Notes
 
-Lyrics for this song were adapted from Psalm 108.
+Lyrics for this song were adapted from Psalm 108.  Second verse added
+August 11, 2021.
 
 ## Copyright/License
 
