@@ -41,7 +41,7 @@ We build on Him alone.
 
 ## Notes
 
-This song is an original tune to which has been applied the words of
+This song is an original tune applied June 17, 2022, to the words of
 the Public Domain hymn, "Christ Is Our Cornerstone" (by John
 Chandler).  The lyrical shape has been preserved, with a few small
 exceptions, namely the reversal of the final two lines of each
