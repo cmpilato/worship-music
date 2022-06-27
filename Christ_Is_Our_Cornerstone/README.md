@@ -21,7 +21,7 @@ Christ is our cornerstone.
 We build on Him alone.  
 
 Jesus is our firm foundation,  
-Strength that flows from God's right hand.  
+Precious stone at God's right hand.  
 He's the Rock of our Salvation,  
 And the gates of Hell won't stand.  
 
@@ -49,6 +49,10 @@ Application of the original tune took place on June 17, 2022.  On June
 27, 2022, the piece was reworked to include the bridge.  One of the
 original stanzas (the second) was also dropped from the arrangement in
 order to facilitate a better flow of song and thought.
+
+## Scripture References
+
+Ephesians 2:19-22; Isaiah 28:16; Matthew 16:18
 
 ## Copyright/License
 
