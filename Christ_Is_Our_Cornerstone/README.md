@@ -11,12 +11,12 @@ Of joys above and present grace.
 Christ is our cornerstone.  
 We build on Him alone.  
 
-With psalms and hymns of praise,  
-This holy place shall ring.  
-Our voices we will raise,  
-The three-in-one to sing.  
-And thus proclaim in joyful song,  
-That glorious name both loud and long.  
+Here gracious God draw near,  
+As in your name we bow.  
+Each true petition hear.  
+Accept each faithful vow.  
+And more and more on all who pray  
+Your blessings pour each holy day.  
 Christ is our cornerstone.  
 We build on Him alone.  
 
@@ -46,7 +46,9 @@ preserve a modern rhyme scheme), and a refrain revisiting the central
 theme to close out each verse.
 
 Application of the original tune took place on June 17, 2022.  On June
-27, 2022, the piece was reworked to include the bridge.
+27, 2022, the piece was reworked to include the bridge.  One of the
+original stanzas (the second) was also dropped from the arrangement in
+order to facilitate a better flow of song and thought.
 
 ## Copyright/License
 
