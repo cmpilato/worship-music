@@ -4052,6 +4052,11 @@
         <voice>1</voice>
         <type>quarter</type>
         </note>
+      <direction placement="above">
+        <direction-type>
+          <rehearsal relative-x="1.50" relative-y="28.60" font-weight="bold">TAG</rehearsal>
+          </direction-type>
+        </direction>
       <note default-x="196.36" default-y="-55.00">
         <pitch>
           <step>B</step>
