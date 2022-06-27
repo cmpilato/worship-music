@@ -13,7 +13,7 @@ We build on Him alone.
 
 Here gracious God draw near,  
 As in your name we bow.  
-Each true petition hear.  
+Each true petition hear;  
 Accept each faithful vow.  
 And more and more on all who pray  
 Your blessings pour each holy day.  
