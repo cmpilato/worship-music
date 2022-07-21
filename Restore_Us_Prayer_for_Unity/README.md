@@ -23,9 +23,9 @@ You are our strength forever.
 You restore us.  
 You restore us.  
 
-It bears all things.  
-Believes all things.  
-Hopes all things.  
+It bears all things,  
+Believes all things,  
+And hopes all things —  
 Love endures.  
 
 ## Biblical References
