@@ -9,7 +9,7 @@
     <rights>Words by John Chandler and C. Michael Pilato.  Music by C. Michael Pilato (2022).  Public Domain.</rights>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2022-08-11</encoding-date>
+      <encoding-date>2023-04-29</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -875,10 +875,9 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="104.73" default-y="-50.00">
+      <note default-x="104.73" default-y="-45.00">
         <pitch>
-          <step>C</step>
-          <alter>1</alter>
+          <step>D</step>
           <octave>4</octave>
           </pitch>
         <duration>2</duration>
@@ -898,10 +897,11 @@
           <text>which</text>
           </lyric>
         </note>
-      <note default-x="104.73" default-y="-40.00">
+      <note default-x="104.73" default-y="-35.00">
         <chord/>
         <pitch>
-          <step>E</step>
+          <step>F</step>
+          <alter>1</alter>
           <octave>4</octave>
           </pitch>
         <duration>2</duration>
