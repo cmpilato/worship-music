@@ -9,7 +9,7 @@
     <rights>Words by John Chandler and C. Michael Pilato.  Music by C. Michael Pilato (2022).  Public Domain.</rights>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2023-04-29</encoding-date>
+      <encoding-date>2023-07-09</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -2901,7 +2901,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>117.49</system-distance>
+          <system-distance>120.96</system-distance>
           </system-layout>
         </print>
       <barline location="left">
@@ -3028,9 +3028,9 @@
     <measure number="28" width="304.05">
       <harmony print-frame="no" color="#5C3566">
         <root>
-          <root-step>B</root-step>
+          <root-step>D</root-step>
           </root>
-        <kind text="m">minor</kind>
+        <kind>major</kind>
         </harmony>
       <note default-x="25.50" default-y="-35.00">
         <pitch>
@@ -3061,6 +3061,16 @@
           <text>tion.</text>
           </lyric>
         </note>
+      <harmony print-frame="no" color="#5C3566">
+        <root>
+          <root-step>D</root-step>
+          </root>
+        <kind>major</kind>
+        <bass>
+          <bass-step>F</bass-step>
+          <bass-alter>1</bass-alter>
+          </bass>
+        </harmony>
       <note default-x="163.87" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -3283,9 +3293,9 @@
         </print>
       <harmony print-frame="no" color="#5C3566">
         <root>
-          <root-step>B</root-step>
+          <root-step>D</root-step>
           </root>
-        <kind text="m">minor</kind>
+        <kind>major</kind>
         </harmony>
       <note default-x="88.35" default-y="-45.00">
         <pitch>
@@ -3319,6 +3329,16 @@
         <voice>1</voice>
         <type>quarter</type>
         </note>
+      <harmony print-frame="no" color="#5C3566">
+        <root>
+          <root-step>D</root-step>
+          </root>
+        <kind>major</kind>
+        <bass>
+          <bass-step>F</bass-step>
+          <bass-alter>1</bass-alter>
+          </bass>
+        </harmony>
       <note default-x="171.69" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -3462,6 +3482,12 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
+      <harmony print-frame="no">
+        <root>
+          <root-step text="">C</root-step>
+          </root>
+        <kind text="">none</kind>
+        </harmony>
       <note default-x="186.89" default-y="-35.00">
         <pitch>
           <step>F</step>
