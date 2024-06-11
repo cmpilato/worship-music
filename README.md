@@ -57,7 +57,7 @@ all things spring from a single place: God, _the_ Creator.
 
 All musical compositions in this repository carry a [Creative Commons
 Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/)
-(CC BY 3.0) license.
+(CC BY 3.0) license or are in the Public Domain.
 
 ## See also
 
