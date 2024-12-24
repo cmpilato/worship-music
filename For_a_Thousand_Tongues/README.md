@@ -1,4 +1,4 @@
-# O For a Thousand Tongues
+# For a Thousand Tongues
 
 ## Lyrics
 
