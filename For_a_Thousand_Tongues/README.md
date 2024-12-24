@@ -31,6 +31,7 @@ Accomplished supreme victory!
 O, for a thousand tongues to sing our great Redeemer's praise!  
 Sing of the glories of our King; the triumph of His grace!  
 Your church in heav'n and earth below, this sacrifice we bring!  
+  
 O, for a thousand tongues to sing.  
 O, for a thousand tongues to sing.  
 O, for a thousand tongues to sing.  
