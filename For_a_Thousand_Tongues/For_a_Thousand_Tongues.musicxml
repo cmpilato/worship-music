@@ -9,7 +9,7 @@
     <rights>Public Domain</rights>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2024-12-24</encoding-date>
+      <encoding-date>2024-12-28</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -1595,11 +1595,10 @@
           <text>ner's</text>
           </lyric>
         </note>
-      <note default-x="167.06" default-y="-40.00">
+      <note default-x="178.92" default-y="-45.00">
         <chord/>
         <pitch>
-          <step>E</step>
-          <alter>-1</alter>
+          <step>D</step>
           <octave>4</octave>
           </pitch>
         <duration>1</duration>
@@ -3306,10 +3305,6 @@
           <syllabic>single</syllabic>
           <text>for</text>
           </lyric>
-        <lyric number="2" default-x="6.58" default-y="-97.40" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>for</text>
-          </lyric>
         </note>
       <note default-x="52.44" default-y="-55.00">
         <pitch>
@@ -3324,10 +3319,6 @@
         <beam number="1">continue</beam>
         <beam number="2">end</beam>
         <lyric number="1" default-x="6.58" default-y="-70.40" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>a</text>
-          </lyric>
-        <lyric number="2" default-x="6.58" default-y="-97.40" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>a</text>
           </lyric>
@@ -3358,10 +3349,6 @@
           <syllabic>begin</syllabic>
           <text>thou</text>
           </lyric>
-        <lyric number="2" default-x="6.58" default-y="-97.40" relative-y="-30.00">
-          <syllabic>begin</syllabic>
-          <text>thou</text>
-          </lyric>
         </note>
       <note default-x="88.07" default-y="-45.00">
         <chord/>
@@ -3386,10 +3373,6 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         <lyric number="1" default-x="6.58" default-y="-70.40" relative-y="-30.00">
-          <syllabic>end</syllabic>
-          <text>sand</text>
-          </lyric>
-        <lyric number="2" default-x="6.58" default-y="-97.40" relative-y="-30.00">
           <syllabic>end</syllabic>
           <text>sand</text>
           </lyric>
@@ -3772,10 +3755,6 @@
           <syllabic>single</syllabic>
           <text>for</text>
           </lyric>
-        <lyric number="2" default-x="6.58" default-y="-101.28" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>for</text>
-          </lyric>
         </note>
       <note default-x="52.79" default-y="-55.00">
         <pitch>
@@ -3790,10 +3769,6 @@
         <beam number="1">continue</beam>
         <beam number="2">end</beam>
         <lyric number="1" default-x="6.58" default-y="-74.28" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>a</text>
-          </lyric>
-        <lyric number="2" default-x="6.58" default-y="-101.28" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>a</text>
           </lyric>
@@ -3824,10 +3799,6 @@
           <syllabic>begin</syllabic>
           <text>thou</text>
           </lyric>
-        <lyric number="2" default-x="6.58" default-y="-101.28" relative-y="-30.00">
-          <syllabic>begin</syllabic>
-          <text>thou</text>
-          </lyric>
         </note>
       <note default-x="88.76" default-y="-45.00">
         <chord/>
@@ -3852,10 +3823,6 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         <lyric number="1" default-x="6.58" default-y="-74.28" relative-y="-30.00">
-          <syllabic>end</syllabic>
-          <text>sand</text>
-          </lyric>
-        <lyric number="2" default-x="6.58" default-y="-101.28" relative-y="-30.00">
           <syllabic>end</syllabic>
           <text>sand</text>
           </lyric>
@@ -5306,10 +5273,9 @@
           <text>wer</text>
           </lyric>
         </note>
-      <note default-x="84.68" default-y="-40.00">
+      <note default-x="84.68" default-y="-45.00">
         <pitch>
-          <step>E</step>
-          <alter>-1</alter>
+          <step>D</step>
           <octave>4</octave>
           </pitch>
         <duration>1</duration>
